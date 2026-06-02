@@ -1,4 +1,4 @@
-This is code developed as part of "Introduction to Software Engineering" module, taken Semester 1, 2024. There is not prior commits as this project was not initially created through GitHub.
+This is code developed as part of "Introduction to Software Engineering" module, taken Semester 1, 2024. There is no prior commits as this project was not initially created through GitHub.
 My final grade for the module was: 70/100
 
 Project Summary
